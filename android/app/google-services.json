@@ -1,0 +1,116 @@
+{
+  "project_info": {
+    "project_number": "788094866557",
+    "project_id": "kindicare-uat",
+    "storage_bucket": "kindicare-uat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788094866557:android:558bc5d979769de0c4cd14",
+        "android_client_info": {
+          "package_name": "com.kindicare.app.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788094866557-ekhgc5eisn7c8bvq9kuhn6bo472h4qu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kindicare.app.uat",
+            "certificate_hash": "d5245034105c82c12fa5254a726051a6ab22e5c7"
+          }
+        },
+        {
+          "client_id": "788094866557-jfqogaik64ollfrfobqn57qusuqlpsnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kindicare.app.uat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "788094866557-hgiuuq32g9bv9thc1vi3mnb2vjc1cecg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxl-NdcBlZy4GaMEgSqxt-rGzNvDur7zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788094866557-hgiuuq32g9bv9thc1vi3mnb2vjc1cecg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788094866557-62c53vk547mkaitbv21ogr7h5to39d16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enouvo.kindicare.uat",
+                "app_store_id": "1546185204"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788094866557:android:ab0da5919d31250ec4cd14",
+        "android_client_info": {
+          "package_name": "com.kindicare.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788094866557-fco05h5c1lfdvc6ek2iqg4ua3tt5re32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kindicare.uat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "788094866557-v89h72sehqd2300anuon6apl90u7qd24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kindicare.uat",
+            "certificate_hash": "d5245034105c82c12fa5254a726051a6ab22e5c7"
+          }
+        },
+        {
+          "client_id": "788094866557-hgiuuq32g9bv9thc1vi3mnb2vjc1cecg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxl-NdcBlZy4GaMEgSqxt-rGzNvDur7zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788094866557-hgiuuq32g9bv9thc1vi3mnb2vjc1cecg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788094866557-62c53vk547mkaitbv21ogr7h5to39d16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enouvo.kindicare.uat",
+                "app_store_id": "1546185204"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
